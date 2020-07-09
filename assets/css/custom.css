@@ -1,0 +1,66 @@
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #ec0909;
+    background-color: transparent;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #ec0909;
+    
+}
+a {
+    color: #777;
+    text-decoration: none;
+}
+.rounded-circle {
+    border-radius: 50%;
+}
+
+.navbar-brand>img {
+    display: inline;
+}
+
+.li-items{    
+ 
+    padding-top: 18px;
+}
+
+.f12{
+    font-size: 12px;
+}
+.btn{
+    background-color: #c7c4c4;
+}
+
+body {
+    font-family: "Verdana", Times, serif;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-size: 12px;
+}
+    .p-0{
+padding: 0px;
+    };
+
+    .p-10{
+        padding: 0px;
+            };
+
+    .pr-0{
+        padding-right: 0px;;
+    }
+
+    table.dataTable thead .sorting:after,
+table.dataTable thead .sorting:before,
+table.dataTable thead .sorting_asc:after,
+table.dataTable thead .sorting_asc:before,
+table.dataTable thead .sorting_asc_disabled:after,
+table.dataTable thead .sorting_asc_disabled:before,
+table.dataTable thead .sorting_desc:after,
+table.dataTable thead .sorting_desc:before,
+table.dataTable thead .sorting_desc_disabled:after,
+table.dataTable thead .sorting_desc_disabled:before {
+bottom: .5em;
+}
+  
